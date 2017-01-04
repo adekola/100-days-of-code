@@ -8,3 +8,14 @@
 
 **Link(s) to work**
 https://github.com/adekola/woki/commit/3889fbe79b338d255381c81b682842a162112739
+
+
+
+### Day 2: January 4, Wednesday
+
+**Today's Progress**: I got a hang of the Semantic UI framework and wired up the index page.
+
+**Thoughts** Getting to use the Semantic-UI framework wasn't as straighforward as Bootstrap. The docs could be better tho
+
+**Link(s) to work**
+https://github.com/adekola/woki/commit/77c55e43309b5db9aae07610ca948508a109b2b6
