@@ -19,3 +19,15 @@ https://github.com/adekola/woki/commit/3889fbe79b338d255381c81b682842a162112739
 
 **Link(s) to work**
 https://github.com/adekola/woki/commit/77c55e43309b5db9aae07610ca948508a109b2b6
+
+
+
+### Day 3: January 6, Friday
+
+**Today's Progress**: Did the markup for the search feature.
+
+**Thoughts** Almost missed coding today again after I missed yesterday. But I'm glad i did not. Semantic-UI framework's ain't as comprehensive but gradudaly getting familiar with it. I also started brushing up my CSS/HTML5 skills on http://learn.shayhowe.com/advanced-html-css/. I think the landing page looks pretty neat and minimalistic.
+
+**Link(s) to work**
+
+https://github.com/adekola/woki/commit/c5b94181041739e3a71a38dc65b58ff4502a3f18
