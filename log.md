@@ -31,3 +31,13 @@ https://github.com/adekola/woki/commit/77c55e43309b5db9aae07610ca948508a109b2b6
 **Link(s) to work**
 
 https://github.com/adekola/woki/commit/c5b94181041739e3a71a38dc65b58ff4502a3f18
+
+### Day 4: January 7, Friday
+
+**Today's Progress**: Did the markup for the search feature.
+
+**Thoughts** Steayd getting an intuition around the use of Semantic-UI. Fixed the markup for search results. 
+
+**Link(s) to work**
+
+https://github.com/adekola/woki/commit/7fadcd99650f569c65ac36f8bc694f377ff59d74
