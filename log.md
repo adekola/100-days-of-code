@@ -32,7 +32,7 @@ https://github.com/adekola/woki/commit/77c55e43309b5db9aae07610ca948508a109b2b6
 
 https://github.com/adekola/woki/commit/c5b94181041739e3a71a38dc65b58ff4502a3f18
 
-### Day 4: January 7, Friday
+### Day 4: January 7, Saturday
 
 **Today's Progress**: Did the markup for the search feature.
 
@@ -41,3 +41,13 @@ https://github.com/adekola/woki/commit/c5b94181041739e3a71a38dc65b58ff4502a3f18
 **Link(s) to work**
 
 https://github.com/adekola/woki/commit/7fadcd99650f569c65ac36f8bc694f377ff59d74
+
+### Day 5: January 8, Sunday
+
+**Today's Progress**: Did the migrations for the database.
+
+**Thoughts** Most of the hour was spent thinking through how best to represent the data for the application and eventually came up with the first migrations. 
+
+**Link(s) to work**
+
+https://github.com/adekola/woki/commit/7d2187d260b76dee646a2eefc756b47cf5043f96
