@@ -51,3 +51,18 @@ https://github.com/adekola/woki/commit/7fadcd99650f569c65ac36f8bc694f377ff59d74
 **Link(s) to work**
 
 https://github.com/adekola/woki/commit/7d2187d260b76dee646a2eefc756b47cf5043f96
+
+
+### Day 6: January 9, Monday
+
+**Today's Progress**: Implemented models for the database.
+
+**Thoughts** Learnt how laravel Eloquent makes it easier to define relatonships between tables in the models.
+
+*Learnt about typography and fonts in CSS.
+*Got a hang of closures in JS as well as the clear diff between the strict and loose equality operators.
+
+**Link(s) to work**
+CSS - https://github.com/adekola/cssnotes/blob/master/Typography.md
+JS - https://github.com/adekola/jsnotes/blob/master/Book%201.md
+Code - https://github.com/adekola/woki/commit/6d53c94882d848b9aafadfabce39fb56d53744c8
