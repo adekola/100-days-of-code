@@ -66,3 +66,12 @@ https://github.com/adekola/woki/commit/7d2187d260b76dee646a2eefc756b47cf5043f96
 CSS - https://github.com/adekola/cssnotes/blob/master/Typography.md
 JS - https://github.com/adekola/jsnotes/blob/master/Book%201.md
 Code - https://github.com/adekola/woki/commit/6d53c94882d848b9aafadfabce39fb56d53744c8
+
+### Day 7: January 10, Tuesday
+
+**Today's Progress**: Started Implementation of search.
+
+**Thoughts** Not much done, but made sure to show up.
+
+**Link(s) to work**
+Code - https://github.com/adekola/woki/commit/dcff00731aa41c4a199e188c1829586961d545fb
