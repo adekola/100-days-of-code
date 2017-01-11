@@ -20,8 +20,6 @@ https://github.com/adekola/woki/commit/3889fbe79b338d255381c81b682842a162112739
 **Link(s) to work**
 https://github.com/adekola/woki/commit/77c55e43309b5db9aae07610ca948508a109b2b6
 
-
-
 ### Day 3: January 6, Friday
 
 **Today's Progress**: Did the markup for the search feature.
@@ -59,13 +57,13 @@ https://github.com/adekola/woki/commit/7d2187d260b76dee646a2eefc756b47cf5043f96
 
 **Thoughts** Learnt how laravel Eloquent makes it easier to define relatonships between tables in the models.
 
-*Learnt about typography and fonts in CSS.
-*Got a hang of closures in JS as well as the clear diff between the strict and loose equality operators.
+* Learnt about typography and fonts in CSS.
+* Got a hang of closures in JS as well as the clear diff between the strict and loose equality operators.
 
 **Link(s) to work**
-CSS - https://github.com/adekola/cssnotes/blob/master/Typography.md
-JS - https://github.com/adekola/jsnotes/blob/master/Book%201.md
-Code - https://github.com/adekola/woki/commit/6d53c94882d848b9aafadfabce39fb56d53744c8
+* CSS - https://github.com/adekola/cssnotes/blob/master/Typography.md
+* JS - https://github.com/adekola/jsnotes/blob/master/Book%201.md
+* Code - https://github.com/adekola/woki/commit/6d53c94882d848b9aafadfabce39fb56d53744c8
 
 ### Day 7: January 10, Tuesday
 
@@ -74,4 +72,14 @@ Code - https://github.com/adekola/woki/commit/6d53c94882d848b9aafadfabce39fb56d5
 **Thoughts** Not much done, but made sure to show up.
 
 **Link(s) to work**
-Code - https://github.com/adekola/woki/commit/dcff00731aa41c4a199e188c1829586961d545fb
+* Code - https://github.com/adekola/woki/commit/dcff00731aa41c4a199e188c1829586961d545fb
+
+### Day 8: January 11, Wednesday
+
+**Today's Progress**: Started Implementation of a personal web page for myself. Learned more about fonts and text based prperties in CSS.
+
+**Thoughts** Felt good to try my hands at CSS without the use of a framework.
+
+**Link(s) to work**
+* Code - https://github.com/adekola/kolaadebayo/commit/7dffee27a0ea4fe19de5f8adc530e1305d4e75ab
+* CSS - https://github.com/adekola/cssnotes/commit/028eaa6c4684c8e74a742f57a754a9144f9bdafe
