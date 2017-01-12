@@ -83,3 +83,12 @@ https://github.com/adekola/woki/commit/7d2187d260b76dee646a2eefc756b47cf5043f96
 **Link(s) to work**
 * Code - https://github.com/adekola/kolaadebayo/commit/7dffee27a0ea4fe19de5f8adc530e1305d4e75ab
 * CSS - https://github.com/adekola/cssnotes/commit/028eaa6c4684c8e74a742f57a754a9144f9bdafe
+
+### Day 9: January 12, Thursday
+
+**Today's Progress**: Learnt about Prototypes, Polyfills and Transpiling in JS
+
+**Thoughts** Felt good to try my hands at CSS without the use of a framework.
+
+**Link(s) to work**
+* Code - 
