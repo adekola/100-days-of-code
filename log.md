@@ -86,9 +86,10 @@ https://github.com/adekola/woki/commit/7d2187d260b76dee646a2eefc756b47cf5043f96
 
 ### Day 9: January 12, Thursday
 
-**Today's Progress**: Learnt about Prototypes, Polyfills and Transpiling in JS
+**Today's Progress**: Learnt about Prototypes, Polyfills and Transpiling in JS. More improvements on the personal web page.
 
-**Thoughts** Felt good to try my hands at CSS without the use of a framework.
+**Thoughts** It was nice to learn that classical classes (from OOP) aren't a thing in JS. It was equally thrilling to improve the personal website with own CSS.
 
 **Link(s) to work**
-* Code - 
+* Code - https://github.com/adekola/kolaadebayo/commit/7de659477b4f3bda68c3f7c9b2ce4c39bdf244ec
+* JS - https://github.com/adekola/jsnotes/commit/c66388c1cc41d1bca5b4a1806e1f684e416319f1
