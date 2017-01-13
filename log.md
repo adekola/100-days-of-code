@@ -93,3 +93,13 @@ https://github.com/adekola/woki/commit/7d2187d260b76dee646a2eefc756b47cf5043f96
 **Link(s) to work**
 * Code - https://github.com/adekola/kolaadebayo/commit/7de659477b4f3bda68c3f7c9b2ce4c39bdf244ec
 * JS - https://github.com/adekola/jsnotes/commit/c66388c1cc41d1bca5b4a1806e1f684e416319f1
+
+### Day 10: January 13, Friday
+
+**Today's Progress**: Learnt about Gradient backgrounds in CSS, more work on the personal web page.
+
+**Thoughts** Did not do as much as I'd have loved to. But made sure to set time aside.
+
+**Link(s) to work**
+* Code - https://github.com/adekola/kolaadebayo/commit/b3ba065157d02cf5d0c412c26820c3636110af33
+* CSS - https://github.com/adekola/cssnotes/commit/d834e652fd087415c9aa05cd6e739821233e8787
