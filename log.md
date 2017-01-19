@@ -1,13 +1,35 @@
 # 100 Days Of Code - Log
 
-### Day 12: January 14, Saturday
+### Day 14: January 18, Wednesday
 
-**Today's Progress**: Made a Website from scratch using semantically correct HTML and CSS .
+**Today's Progress**: Learnt how to add media to pages as well as fallback strategies to support older browsers. Made progress with the search feature on woki.
 
-**Thoughts** It was illuminating to make a web page entirely from scratch
+**Thoughts** I'm having a sort of headblock with respect to how to implement the search. I think it makes sense to first figure out how to seed the existing schema with data and from there, work out the practical approach to querying same.
 
 **Link(s) to work**
-* Code - https://github.com/adekola/stylesconf/commit/2062482d52af18046c85e40fc1a7f65439fcba52
+* CSS - https://github.com/adekola/cssnotes/commit/93b158c17dcbdac072240e3545d9293a8276543d
+* Code - https://github.com/adekola/woki/commit/612d6d61ef54fcaa7ec75347cffe6c1bd259c139
+
+### Day 13: January 17, Tuesday
+
+**Today's Progress**: Learnt list styling in CSS (outside vs inside). Made progress with the new design.
+
+**Thoughts** Fun to see how styling could change the way lists are rendered. Coded the new page design in one go and brought along the full power of all the CSS I've been learning until now.
+
+**Link(s) to work**
+* JS - https://github.com/adekola/jsnotes/commit/bea8f545324153dd5124ad33bc6e58f757f2b91e
+* Code - https://github.com/adekola/kolaadebayo/commit/798f510df7896bfc443c68ed859434f2ac89064a
+
+
+### Day 12: January 16, Monday
+
+**Today's Progress**: Learnt the diff btw `undefined` vs `undeclared` in JS. Initiated a remake of the personal web page .
+
+**Thoughts** Loved the understanding I got of the diff between the two related concepts in JS
+
+**Link(s) to work**
+* JS - https://github.com/adekola/jsnotes/commit/bea8f545324153dd5124ad33bc6e58f757f2b91e
+* Code - https://github.com/adekola/kolaadebayo/commit/87ad7e0827f00eaa8044970cfba3a9f79c3b543c
 
 
 ### Day 11: January 14, Saturday
