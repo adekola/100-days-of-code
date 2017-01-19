@@ -1,55 +1,64 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 3, Tuesday
+### Day 12: January 14, Saturday
 
-**Today's Progress**: I set up the first project I'll be working on in the course of the next 100 days of the challenge.
+**Today's Progress**: Made a Website from scratch using semantically correct HTML and CSS .
 
-**Thoughts** It was interesting to get my feet into the Semantic-UI framework which I'll be using for the first time
-
-**Link(s) to work**
-https://github.com/adekola/woki/commit/3889fbe79b338d255381c81b682842a162112739
-
-
-
-### Day 2: January 4, Wednesday
-
-**Today's Progress**: I got a hang of the Semantic UI framework and wired up the index page.
-
-**Thoughts** Getting to use the Semantic-UI framework wasn't as straighforward as Bootstrap. The docs could be better tho
+**Thoughts** It was illuminating to make a web page entirely from scratch
 
 **Link(s) to work**
-https://github.com/adekola/woki/commit/77c55e43309b5db9aae07610ca948508a109b2b6
+* Code - https://github.com/adekola/stylesconf/commit/2062482d52af18046c85e40fc1a7f65439fcba52
 
-### Day 3: January 6, Friday
 
-**Today's Progress**: Did the markup for the search feature.
+### Day 11: January 14, Saturday
 
-**Thoughts** Almost missed coding today again after I missed yesterday. But I'm glad i did not. Semantic-UI framework's ain't as comprehensive but gradudaly getting familiar with it. I also started brushing up my CSS/HTML5 skills on http://learn.shayhowe.com/advanced-html-css/. I think the landing page looks pretty neat and minimalistic.
+**Today's Progress**: Made a Website from scratch using semantically correct HTML and CSS .
 
-**Link(s) to work**
-
-https://github.com/adekola/woki/commit/c5b94181041739e3a71a38dc65b58ff4502a3f18
-
-### Day 4: January 7, Saturday
-
-**Today's Progress**: Did the markup for the search feature.
-
-**Thoughts** Steayd getting an intuition around the use of Semantic-UI. Fixed the markup for search results. 
+**Thoughts** It was illuminating to make a web page entirely from scratch
 
 **Link(s) to work**
+* Code - https://github.com/adekola/stylesconf/commit/2062482d52af18046c85e40fc1a7f65439fcba52
 
-https://github.com/adekola/woki/commit/7fadcd99650f569c65ac36f8bc694f377ff59d74
 
-### Day 5: January 8, Sunday
+### Day 10: January 13, Friday
 
-**Today's Progress**: Did the migrations for the database.
+**Today's Progress**: Learnt about Gradient backgrounds in CSS, more work on the personal web page.
 
-**Thoughts** Most of the hour was spent thinking through how best to represent the data for the application and eventually came up with the first migrations. 
+**Thoughts** Did not do as much as I'd have loved to. But made sure to set time aside.
 
 **Link(s) to work**
+* Code - https://github.com/adekola/kolaadebayo/commit/b3ba065157d02cf5d0c412c26820c3636110af33
+* CSS - https://github.com/adekola/cssnotes/commit/d834e652fd087415c9aa05cd6e739821233e8787
 
-https://github.com/adekola/woki/commit/7d2187d260b76dee646a2eefc756b47cf5043f96
 
+### Day 9: January 12, Thursday
+
+**Today's Progress**: Learnt about Prototypes, Polyfills and Transpiling in JS. More improvements on the personal web page.
+
+**Thoughts** It was nice to learn that classical classes (from OOP) aren't a thing in JS. It was equally thrilling to improve the personal website with own CSS.
+
+**Link(s) to work**
+* Code - https://github.com/adekola/kolaadebayo/commit/7de659477b4f3bda68c3f7c9b2ce4c39bdf244ec
+* JS - https://github.com/adekola/jsnotes/commit/c66388c1cc41d1bca5b4a1806e1f684e416319f1
+
+### Day 8: January 11, Wednesday
+
+**Today's Progress**: Started Implementation of a personal web page for myself. Learned more about fonts and text based prperties in CSS.
+
+**Thoughts** Felt good to try my hands at CSS without the use of a framework.
+
+**Link(s) to work**
+* Code - https://github.com/adekola/kolaadebayo/commit/7dffee27a0ea4fe19de5f8adc530e1305d4e75ab
+* CSS - https://github.com/adekola/cssnotes/commit/028eaa6c4684c8e74a742f57a754a9144f9bdafe
+
+### Day 7: January 10, Tuesday
+
+**Today's Progress**: Started Implementation of search.
+
+**Thoughts** Not much done, but made sure to show up.
+
+**Link(s) to work**
+* Code - https://github.com/adekola/woki/commit/dcff00731aa41c4a199e188c1829586961d545fb
 
 ### Day 6: January 9, Monday
 
@@ -65,41 +74,51 @@ https://github.com/adekola/woki/commit/7d2187d260b76dee646a2eefc756b47cf5043f96
 * JS - https://github.com/adekola/jsnotes/blob/master/Book%201.md
 * Code - https://github.com/adekola/woki/commit/6d53c94882d848b9aafadfabce39fb56d53744c8
 
-### Day 7: January 10, Tuesday
+### Day 5: January 8, Sunday
 
-**Today's Progress**: Started Implementation of search.
+**Today's Progress**: Did the migrations for the database.
 
-**Thoughts** Not much done, but made sure to show up.
-
-**Link(s) to work**
-* Code - https://github.com/adekola/woki/commit/dcff00731aa41c4a199e188c1829586961d545fb
-
-### Day 8: January 11, Wednesday
-
-**Today's Progress**: Started Implementation of a personal web page for myself. Learned more about fonts and text based prperties in CSS.
-
-**Thoughts** Felt good to try my hands at CSS without the use of a framework.
+**Thoughts** Most of the hour was spent thinking through how best to represent the data for the application and eventually came up with the first migrations. 
 
 **Link(s) to work**
-* Code - https://github.com/adekola/kolaadebayo/commit/7dffee27a0ea4fe19de5f8adc530e1305d4e75ab
-* CSS - https://github.com/adekola/cssnotes/commit/028eaa6c4684c8e74a742f57a754a9144f9bdafe
 
-### Day 9: January 12, Thursday
+https://github.com/adekola/woki/commit/7d2187d260b76dee646a2eefc756b47cf5043f96
 
-**Today's Progress**: Learnt about Prototypes, Polyfills and Transpiling in JS. More improvements on the personal web page.
+### Day 4: January 7, Saturday
 
-**Thoughts** It was nice to learn that classical classes (from OOP) aren't a thing in JS. It was equally thrilling to improve the personal website with own CSS.
+**Today's Progress**: Did the markup for the search feature.
 
-**Link(s) to work**
-* Code - https://github.com/adekola/kolaadebayo/commit/7de659477b4f3bda68c3f7c9b2ce4c39bdf244ec
-* JS - https://github.com/adekola/jsnotes/commit/c66388c1cc41d1bca5b4a1806e1f684e416319f1
-
-### Day 10: January 13, Friday
-
-**Today's Progress**: Learnt about Gradient backgrounds in CSS, more work on the personal web page.
-
-**Thoughts** Did not do as much as I'd have loved to. But made sure to set time aside.
+**Thoughts** Steayd getting an intuition around the use of Semantic-UI. Fixed the markup for search results. 
 
 **Link(s) to work**
-* Code - https://github.com/adekola/kolaadebayo/commit/b3ba065157d02cf5d0c412c26820c3636110af33
-* CSS - https://github.com/adekola/cssnotes/commit/d834e652fd087415c9aa05cd6e739821233e8787
+
+https://github.com/adekola/woki/commit/7fadcd99650f569c65ac36f8bc694f377ff59d74
+
+### Day 3: January 6, Friday
+
+**Today's Progress**: Did the markup for the search feature.
+
+**Thoughts** Almost missed coding today again after I missed yesterday. But I'm glad i did not. Semantic-UI framework's ain't as comprehensive but gradudaly getting familiar with it. I also started brushing up my CSS/HTML5 skills on http://learn.shayhowe.com/advanced-html-css/. I think the landing page looks pretty neat and minimalistic.
+
+**Link(s) to work**
+
+https://github.com/adekola/woki/commit/c5b94181041739e3a71a38dc65b58ff4502a3f18
+
+### Day 2: January 4, Wednesday
+
+**Today's Progress**: I got a hang of the Semantic UI framework and wired up the index page.
+
+**Thoughts** Getting to use the Semantic-UI framework wasn't as straighforward as Bootstrap. The docs could be better tho
+
+**Link(s) to work**
+https://github.com/adekola/woki/commit/77c55e43309b5db9aae07610ca948508a109b2b6
+
+
+### Day 1: January 3, Tuesday
+
+**Today's Progress**: I set up the first project I'll be working on in the course of the next 100 days of the challenge.
+
+**Thoughts** It was interesting to get my feet into the Semantic-UI framework which I'll be using for the first time
+
+**Link(s) to work**
+https://github.com/adekola/woki/commit/3889fbe79b338d255381c81b682842a162112739
