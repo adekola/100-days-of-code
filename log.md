@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 20, Wednesday
+
+**Today's Progress**: Learnt how to work with tables in HTML; Nice to learn about attributes like `colspan`, `rowspan` and so on. Progress with aesthetics on the personal web page.
+
+**Thoughts** I totally love the new font combination on the web page. I was able to split alternate versions of the website theme and so will eventually hope to have a feature in production that can change the theme each day for example.
+
+**Link(s) to work**
+* CSS - https://github.com/adekola/cssnotes/commit/f407dcafb2f6fefa416d245386b0c0cb93e1c06b
+* Code - https://github.com/adekola/cssnotes/commit/638cc502809903ac1e945b6fab67fc607a14b593
+
+### Day 15: January 19, Wednesday
+
+**Today's Progress**: Learnt how to work with forms in HTML including certain inptu elements which I wasn't aware of until now.
+
+**Thoughts** Did not do actual coding today tho. 
+
+**Link(s) to work**
+* CSS - https://github.com/adekola/cssnotes/commit/f407dcafb2f6fefa416d245386b0c0cb93e1c06b
+
 ### Day 14: January 18, Wednesday
 
 **Today's Progress**: Learnt how to add media to pages as well as fallback strategies to support older browsers. Made progress with the search feature on woki.
