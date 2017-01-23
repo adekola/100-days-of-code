@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 16: January 20, Wednesday
+### Day 17: January 23, Monday
+
+**Today's Progress**: Fnished the basic course in CSS concluding with best practices in the coding of HTMl and CSS. Implemented th eworking layout for the web page. Looks pretty neat so far.
+
+**Thoughts** I love the fact that all of the elements in the web page were handcrafted by me. Feels great to be able to picture a design in m mind and gradually bring it to life.
+
+**Link(s) to work**
+* CSS - https://github.com/adekola/cssnotes/commit/837f2be5027ab07d1a8542e38dd6037a19ee7fd0
+* Code - https://github.com/adekola/kolaadebayo/commit/a146158f92a663c29cd465dcb4175ddc11a6a131
+
+### Day 16: January 20, Friday
 
 **Today's Progress**: Learnt how to work with tables in HTML; Nice to learn about attributes like `colspan`, `rowspan` and so on. Progress with aesthetics on the personal web page.
 
@@ -10,7 +20,7 @@
 * CSS - https://github.com/adekola/cssnotes/commit/f407dcafb2f6fefa416d245386b0c0cb93e1c06b
 * Code - https://github.com/adekola/cssnotes/commit/638cc502809903ac1e945b6fab67fc607a14b593
 
-### Day 15: January 19, Wednesday
+### Day 15: January 19, Thursday
 
 **Today's Progress**: Learnt how to work with forms in HTML including certain inptu elements which I wasn't aware of until now.
 
