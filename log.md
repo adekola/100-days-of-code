@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 24, Tuesday
+
+**Today's Progress**: Learnt about techniques for optimizing HTML and CSS within projects in order to make for better performance. Also integrated Twitter TL into the personal web page (albeit it doesn't display at the moment. Perhaps because it's in localhost).
+
+**Thoughts** Good to be onto some advanced CSS matters now.
+
+**Link(s) to work**
+* CSS - https://github.com/adekola/cssnotes/commit/5d4c2b629a31b34dd343c2444845f4c9b4e68a3e
+* Code - https://github.com/adekola/kolaadebayo/commit/019bcdfb65fd7960648948346577531a16b205f2
+
 ### Day 17: January 23, Monday
 
 **Today's Progress**: Fnished the basic course in CSS concluding with best practices in the coding of HTMl and CSS. Implemented th eworking layout for the web page. Looks pretty neat so far.
