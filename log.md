@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 25, Wednesday
+
+**Today's Progress**: Learnt more positioning techniques in CSS, talk about z-index, positioning values as well as containing floats (i personally prefere the clearfix technique.
+
+**Thoughts** Did not actually 'code' today but I learnt substantial coding stuff so perhaps it counts
+
+**Link(s) to work**
+* CSS - https://github.com/adekola/cssnotes/commit/40e88194579062b2a78484ae37513470a1de5048
+
 ### Day 18: January 24, Tuesday
 
 **Today's Progress**: Learnt about techniques for optimizing HTML and CSS within projects in order to make for better performance. Also integrated Twitter TL into the personal web page (albeit it doesn't display at the moment. Perhaps because it's in localhost).
